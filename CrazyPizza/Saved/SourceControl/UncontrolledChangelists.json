@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ForkRepositories/CrazyPizza/CrazyPizza/Content/Test/BP_StartPoint.uasset",
+				"D:/ForkRepositories/CrazyPizza/CrazyPizza/Content/UI/BPW_Countdown.uasset",
+				"D:/ForkRepositories/CrazyPizza/CrazyPizza/Content/VehicleTemplate/UI/UI_Vehicle.uasset",
+				"D:/ForkRepositories/CrazyPizza/CrazyPizza/Content/Test/BP_EndPoint.uasset",
+				"D:/ForkRepositories/CrazyPizza/CrazyPizza/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/AW/9C8I9TFBGJO0WM04UO7ECN.uasset",
+				"D:/ForkRepositories/CrazyPizza/CrazyPizza/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/B/X3/ZXVNZQKWDIN057XW1723FF.uasset",
+				"D:/ForkRepositories/CrazyPizza/CrazyPizza/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/3L/G2T9HWASWK7UTT67K5WYLQ.uasset",
+				"D:/ForkRepositories/CrazyPizza/CrazyPizza/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/D/5Y/V1JPQMGTNUD20RSR5L0DHD.uasset"
+			]
+		}
+	]
+}
